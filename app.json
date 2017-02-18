@@ -1,0 +1,15 @@
+{
+  "name": "SSM 2.0",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
